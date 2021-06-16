@@ -3,7 +3,6 @@
 
 
 # Provider usage
-
 ```
 $ go build -o terraform-provider-appstream
 $ terraform init
