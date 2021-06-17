@@ -31,3 +31,6 @@ https://github.com/bluesentry/terraform-provider-appstream
 
 https://github.com/arnvid/terraform-provider-appstream
 [Arnvid Karstad](https://github.com/arnvid)
+
+https://github.com/wrschneider/terraform-provider-aws/tree/appstream-stack
+[Bill Schneider](https://github.com/wrschneider)
